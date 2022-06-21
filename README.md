@@ -74,4 +74,7 @@ Here are some ideas to get you started:
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Rendering Dark Mode for Email](https://livcodes.medium.com/rendering-dark-mode-for-email-d0f050f555a7?source=rss-5d8c19522274------2)
+- [In the Loop](https://medium.com/the-marcy-lab-school/in-the-loop-335f921b689b?source=rss-5d8c19522274------2)
+- [Hoist Me Up, Scotty…](https://medium.com/swlh/hoist-me-up-scotty-8a52e3d47041?source=rss-5d8c19522274------2)
 <!-- BLOG-POST-LIST:END -->
