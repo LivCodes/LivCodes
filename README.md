@@ -34,10 +34,11 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/N8ux2BsYiWN5sIYbfB/giphy.gif" width="500" height="300"/>
 </div>
----
 
-### :woman_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for web applications.
+
+### :woman_technologist: About Me : 
+I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York.
+- :telescope: I am a Software Engineer devoted to building tools and technologies that will impact users in a meaningful way. I want to utilize my creativity to create immersive user experiences while writing code that is readable, clean, and efficient. 
 
 - :seedling: Exploring video game design.
 
