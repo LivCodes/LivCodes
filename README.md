@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center"> 
-  <img src="https://cdn.dribbble.com/users/252024/screenshots/2967356/ladytypingloop.gif" width="150"/>
+  <img src="https://media.giphy.com/media/k6gqjXasubQPWtDBik/giphy.gif" width="150"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/olivia-reed-3b5934137/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/N8ux2BsYiWN5sIYbfB/giphy.gif" width="500" height="300"/>
 </div>
 ---
 
