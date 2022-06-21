@@ -44,7 +44,7 @@ I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I skateboard and animate.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/olivia-reed-3b5934137/")
+- :mailbox:How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/olivia-reed-3b5934137/")
 
 ---
 
