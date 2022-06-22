@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 </p>
 </div>
 
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/N8ux2BsYiWN5sIYbfB/giphy.gif" width="500" height="300"/>
 </div>
