@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=LivCodes&style=flat-square&color=blue" alt="profile view counter"/>
-  <h1>
+  <p>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"/>
-</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px"/>
+</p>
 </div>
 
 <div align="center">
