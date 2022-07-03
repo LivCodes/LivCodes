@@ -44,7 +44,7 @@ I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :telescope: I am devoted to building tools and technologies that will impact users in a meaningful way. I want to utilize my creativity to create immersive user experiences while writing code that is readable, clean, and efficient. 
 
 - :seedling: Exploring video game design.
-
+- 🌱 I’m currently solidifing React
 - :zap: In my free time, I skateboard and animate.
 
 - :mailbox:How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/olivia-reed-3b5934137/")
